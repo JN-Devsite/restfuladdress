@@ -14,3 +14,9 @@ The addresses controller:		\app\Http\Controllers\AddressesController.php
 Database name: 				restful_address
 Database address table:		addresses
 Address table fields:			'address', 'city', 'country', 'code', 'lat', 'long'
+
+#React files
+The React files can be found in \resources\assets\js\components folder
+
+Added React framework to the project. I am unsure if Github has been adding the  node_modules directory. I added the directory ass a zip folder if somehow this wasn't added. 
+It needs to be extracted into the main directory. Alternatively, I added the whole project as a 7z compressed file if this will make it a lot simpler. 
