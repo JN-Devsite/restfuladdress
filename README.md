@@ -18,6 +18,7 @@ Address table fields:			'address', 'city', 'country', 'code', 'lat', 'long'
 #React files
 The React files can be found in \resources\assets\js\components folder
 To view an example map location, view the curl file from outside the Laravel framework URL eg. http://localhost/curl-rest.php?id=11
+It is found in :  \Curl Eg for the Google Map - Test outside Laravel app
 
 
 Added React framework to the project. I am unsure if Github has been adding the  node_modules directory. I added the directory ass a zip folder if somehow this wasn't added. 
