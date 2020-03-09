@@ -1,2 +1,6 @@
 language: php
 
+rvm:
+ - 7.2
+ - pjp
+
